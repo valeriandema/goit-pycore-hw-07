@@ -1,4 +1,4 @@
-from bot import AddressBook, Record, parse_input, add_contact, change_contact, show_phone, show_all, add_birthday, show_birthday, birthdays
+from assignments.bot import AddressBook, Record, parse_input, add_contact, change_contact, show_phone, show_all, add_birthday, show_birthday, birthdays
 
 
 def main():
